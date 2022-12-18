@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/Nadil97/Build-a-Node.js-Password-Generator#readme",
   "dependencies": {
-    "chalk": "^5.2.0",
-    "clipboardy": "^3.0.0",
+    "chalk": "^4.1.2",
+    "clipboardy": "^2.3.0",
     "commander": "^9.4.1"
   }
 }
