@@ -15,6 +15,7 @@ program
 .option('ns, --no-symbols','remove symbols')
 .parse()
 
+
 const {length, save, numbers,symbols}=program.opts()
 
 // Get generated password
